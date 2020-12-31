@@ -2,7 +2,7 @@ import React from "react";
 
 function LightTeamB() {
   return (
-    <section className="text-gray-700 body-font">
+    <section className="text-gray-600 body-font">
       <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-col text-center w-full mb-20">
           <h1 className="text-2xl font-medium title-font mb-4 text-gray-900 tracking-widest">
@@ -35,6 +35,7 @@ function LightTeamB() {
                   <a href className="text-gray-500">
                     <svg
                       fill="none"
+                      stroke="currentColor"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
@@ -47,6 +48,7 @@ function LightTeamB() {
                   <a href className="ml-2 text-gray-500">
                     <svg
                       fill="none"
+                      stroke="currentColor"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
@@ -59,6 +61,7 @@ function LightTeamB() {
                   <a href className="ml-2 text-gray-500">
                     <svg
                       fill="none"
+                      stroke="currentColor"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
@@ -92,6 +95,7 @@ function LightTeamB() {
                   <a href className="text-gray-500">
                     <svg
                       fill="none"
+                      stroke="currentColor"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
@@ -104,6 +108,7 @@ function LightTeamB() {
                   <a href className="ml-2 text-gray-500">
                     <svg
                       fill="none"
+                      stroke="currentColor"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
@@ -116,6 +121,7 @@ function LightTeamB() {
                   <a href className="ml-2 text-gray-500">
                     <svg
                       fill="none"
+                      stroke="currentColor"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
@@ -149,6 +155,7 @@ function LightTeamB() {
                   <a href className="text-gray-500">
                     <svg
                       fill="none"
+                      stroke="currentColor"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
@@ -161,6 +168,7 @@ function LightTeamB() {
                   <a href className="ml-2 text-gray-500">
                     <svg
                       fill="none"
+                      stroke="currentColor"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
@@ -173,6 +181,7 @@ function LightTeamB() {
                   <a href className="ml-2 text-gray-500">
                     <svg
                       fill="none"
+                      stroke="currentColor"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
@@ -206,6 +215,7 @@ function LightTeamB() {
                   <a href className="text-gray-500">
                     <svg
                       fill="none"
+                      stroke="currentColor"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
@@ -218,6 +228,7 @@ function LightTeamB() {
                   <a href className="ml-2 text-gray-500">
                     <svg
                       fill="none"
+                      stroke="currentColor"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
@@ -230,6 +241,7 @@ function LightTeamB() {
                   <a href className="ml-2 text-gray-500">
                     <svg
                       fill="none"
+                      stroke="currentColor"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
